@@ -210,7 +210,7 @@ footer .p img{
     .head nav{
         font-size:20px;
         background:white;
-        position:absolute;
+        position:fixed;
         display:none;
         top:0;
         left:0;

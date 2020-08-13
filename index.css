@@ -59,9 +59,11 @@ body{
     height:448px;
 }
 .section1 .d1 img{
+    filter: brightness(0.8);
     height:200px;
 }
 .section1 .d2 img{
+    filter: brightness(0.8);
     height:430px;
 }
 .section1 figure{
@@ -79,6 +81,7 @@ body{
     top:100px;
 }
 .section1 .d1 .p1,.section1 .d2 .p2{
+    filter: brightness(0.3);
     font-size:18px;
     font-weight:500;
 }
@@ -193,6 +196,7 @@ body{
     line-height:30px;
     font-weight:lighter;
     margin-bottom:5%;
+    filter: brightness(0.2);
 }
 .section2 .p5 a{
     margin-left:0;
@@ -262,12 +266,14 @@ body{
     width:98%;
 }
 .section3 .figure1 img,.section3 .figure2 img,.section3 .figure3 img{
+    filter: brightness(0.8);
     height:300px;
 }
 .section3 .d2{
     width:42%;
 }
 .section3 .d2 img{
+    filter: brightness(0.8);
     height:627px;
 }
 .section3 figure{
@@ -328,6 +334,7 @@ body{
     color:grey;
     font-size:15px;
     margin-top:2%;
+    filter: brightness(0.4);
 }
 .section3 .figure4 .p1{
     font-size:28px;
@@ -341,6 +348,7 @@ body{
 .section4 .p2,.section4 .p3{
     font-weight:lighter;
     color:grey;
+    filter: brightness(0.2);
 }
 .section4 .p1{
     font-size:19px;
@@ -401,10 +409,12 @@ footer .div-div1 .p1{
     margin-bottom:7%;
 }
 footer .div-div1 .p2{
+    filter: brightness(120%);
     line-height:29px;
     font-weight:lighter;
 }
 footer .div-div2 p{
+    filter: brightness(120%);
     font-size:16px;
     line-height:32px;
     font-weight:lighter;
@@ -677,7 +687,7 @@ footer .p img{
         font-size:13px;
     }
     .section2 .p4 {
-        font-size: 12px;
+        font-size: 14px;
     }
     .pagination .p {
         width: 10.2%;

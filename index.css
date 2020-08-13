@@ -423,6 +423,7 @@ footer .div-div3 p{
     font-weight:600;
 }
 footer .p{
+    filter: brightness(120%);
     text-align:center;
 }
 footer .p img{

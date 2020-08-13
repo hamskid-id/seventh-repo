@@ -81,11 +81,11 @@ body{
     top:100px;
 }
 .section1 .d1 .p1,.section1 .d2 .p2{
-    filter: brightness(0.3);
     font-size:18px;
     font-weight:500;
 }
 .section1 .d1 .p2,.section1 .d2 .p3{
+    filter:brightness(0.4);
     color:grey;
     font-size:17px;
 }

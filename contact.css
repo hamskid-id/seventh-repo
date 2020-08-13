@@ -168,12 +168,12 @@ footer .div-div1 .p1{
     margin-bottom:7%;
 }
 footer .div-div1 .p2{
-    filter: brightness(120%)
+    filter: brightness(120%);
     line-height:29px;
     font-weight:lighter;
 }
 footer .div-div2 p{
-    filter: brightness(120%)
+    filter: brightness(120%);
     font-size:16px;
     line-height:32px;
     font-weight:lighter;
@@ -182,7 +182,7 @@ footer .div-div3 p{
     font-weight:600;
 }
 footer .p{
-    filter: brightness(120%)
+    filter: brightness(120%);
     text-align:center;
 }
 footer .p img{

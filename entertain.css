@@ -114,8 +114,10 @@ img{
     font-size:15px;
     font-weight:lighter;
     color:grey;
+    filter: brightness(0.4);
 }
 .section2 .d1 .p11{
+    filter: brightness(0.4);
     margin-bottom:1%;
     padding-right:4%;
     line-height:30px;
@@ -174,6 +176,7 @@ img{
     margin-bottom:1%;
 }
 .section2 .d1 .p3{
+    filter: brightness(0.4)
     line-height:30px;
     font-size:15px;
     font-weight:lighter;
@@ -247,6 +250,7 @@ img{
     margin-bottom:-1%;
 }
 .section2 .d2 figure .p2{
+    filter: brightness(0.4);
     line-height:30px;
     font-size:15px;
     font-weight:lighter;
@@ -302,6 +306,7 @@ img{
     margin-bottom:5%;
 }
 .section2 .d1-div .p2{
+    filter: brightness(0.4);
     font-size:14px;
     color:grey;
 }
@@ -316,6 +321,7 @@ img{
    
 }
 .section2 .d2-d2 .p2 span{
+   filter: brightness(0.4);
    position:absolute;
    top:0;
    right:10px;
@@ -361,12 +367,14 @@ img{
     width:98%;
 }
 .section3 .figure1 img,.section3 .figure2 img,.section3 .figure3 img{
+    filter: brightness(0.8);
     height:300px;
 }
 .section3 .d2{
     width:42%;
 }
 .section3 .d2 img{
+   filter: brightness(0.8);
     height:627px;
 }
 .section3 figure{
@@ -423,6 +431,7 @@ img{
     width:80%;
 }
 .section3 .p2{
+    filter: brightness(0.4);
     margin-left:5%;
     color:grey;
     font-size:15px;
@@ -443,6 +452,7 @@ img{
     text-align:center;
 }
 .section4 .p2,.section4 .p3{
+    filter: brightness(0.4);
     font-weight:lighter;
     color:grey;
 }
@@ -505,10 +515,12 @@ footer .div-div1 .p1{
     margin-bottom:7%;
 }
 footer .div-div1 .p2{
+    filter: brightness(0.4);
     line-height:29px;
     font-weight:lighter;
 }
 footer .div-div2 p{
+    filter: brightness(0.4);
     font-size:16px;
     line-height:32px;
     font-weight:lighter;
